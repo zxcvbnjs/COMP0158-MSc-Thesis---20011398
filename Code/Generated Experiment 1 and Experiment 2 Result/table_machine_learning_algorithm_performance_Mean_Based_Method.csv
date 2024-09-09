@@ -1,0 +1,6 @@
+model,MSE Test
+Lasso regression,620508.5624713248
+Random Forest,108682.30889995088
+Ridge regression,26831700.20769016
+SVM,168350605.9714185
+polynomial regression,861738746.9752375
